@@ -4,7 +4,7 @@ A simple PID controller library in Python, suitable for robotics applications.
 Instructions
 ===
 Place the PID_lib.py in the same directory with your main script.
-## e.g
+# Usage example
 ```python
  Import PID_lib()
  # PID(KP,KI,KD,iteration_time) parameters

@@ -1,5 +1,5 @@
 # Description
-A simple PID controller library in Python, suitable for robotic application. 
+A simple PID controller library in Python, suitable for robotics applications. 
 
 Instructions
 ===

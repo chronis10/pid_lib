@@ -1,5 +1,7 @@
+#!/usr/bin/env python
+#Author Christos Chronis
+
 import time
-import random
 
 class PID():
     def __init__(self,KP,KI,KD,iteration_time):
